@@ -41,4 +41,4 @@ pyplot.show()
 
 ![alt text](<Screenshot 2024-12-23 143357.png>)
 ## Result
-Thus the univariate Linear Regression was implemented to fit a straight line using least squares
+Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
